@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+
+# 编译产物（这些不进仓库，代码才进）
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.lib
+*.o
+Debug/
+Release/
+x64/
+out.txt
+
+# 其他
+*.log
+Thumbs.db
+.DS_Store
